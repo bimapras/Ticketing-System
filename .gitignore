@@ -5,7 +5,6 @@ build/
 dist/
 wheels/
 *.egg-info
-local_lakebase.py
 
 # Virtual environments
 .venv
